@@ -4,7 +4,7 @@
         "firstName": "Jon",
         "lastName": "Snow",
         "fullName": "Jon Snow",
-        "title": "King of the North",
+        "title": "Nothing Knower",
         "family": "House Stark",
         "image": "jon-snow.jpg",
         "imageUrl": "https://thronesapi.com/assets/images/jon-snow.jpg"
@@ -14,7 +14,7 @@
         "firstName": "Samwell",
         "lastName": "Tarly",
         "fullName": "Samwell Tarly",
-        "title": "Maester",
+        "title": "Supreme Maester",
         "family": "House Tarly",
         "image": "sam.jpg",
         "imageUrl": "https://thronesapi.com/assets/images/sam.jpg"
